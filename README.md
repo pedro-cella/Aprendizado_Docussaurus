@@ -9,3 +9,6 @@ O objetivo do repositório é aprender mais sobre a ferramenta Docusaurus atrav�
 
 ## Projeto 1 - Página de Receitas
 ![Receitas do PV](assets/landpage.png)
+
+# Conclusão
+Ao final de cada projeto, caso venha a ter mais de um, será realizado um deploy do mesmo no GitHub Pages
